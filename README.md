@@ -1,7 +1,7 @@
 # Movie search functionality using API
 
 ## Project view page
-page: https://olhakobylianskaalex.github.io/FetchAPI-template/
+https://olhakobylianskaalex.github.io/search-films/
 
 ## To start: 
 npm install 
